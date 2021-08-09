@@ -1,6 +1,6 @@
 {
-    "name": "Accentrium",
-    "short_name": "Accentrium",
+    "name": "Imam-Layth",
+    "short_name": "Layth",
     "icons": [
         {
             "src": "images/logo.png",
@@ -18,7 +18,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#0add08",
+    "theme_color": "#E04622",
     "background_color": "#ffffff",
     "start_url": "/",
     "display": "standalone"
