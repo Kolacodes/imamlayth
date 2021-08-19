@@ -2,14 +2,20 @@
 
 /* CSS Variables */
 
-:root{
-  --primary-color: #e3ff00;
-  --primary-color: #0add08;
+.porto-big-title {
+  letter-spacing: -18px;
+  font-size: 5.5rem !important;
 }
 
-.color-primary{
-  color: var(--primary-color) !important;
+
+
+@media (max-width: 575px) {
+  .porto-big-title {
+    letter-spacing: -18px;
+    font-size: 5.5rem !important;
+  }
 }
+
 
 .afrocodez{
   text-align: center;
