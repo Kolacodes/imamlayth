@@ -13,11 +13,9 @@ app.get("/", function(req, res) {
     res.render("index");
 });
 
-
-app.get("/xmt", function(req, res) {
-    
-    res.render("xmt");
-});
+app.get("/courses", function(req, res) {
+    res.render("courses");
+})
 
 
 
